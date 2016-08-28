@@ -1,0 +1,14 @@
+*~
+.\#*
+\#*\#
+*.jar
+*.class
+/.lein-*
+figwheel_server.log
+pom.xml
+/lib/
+/classes/
+/target/
+.repl
+.nrepl-port
+.sass-cache
